@@ -1,0 +1,56 @@
+You can copy it from "PoE 3.11 Cheat Sheets (QOL Info)" https://docs.google.com/spreadsheets/d/1fIs8sdvgZG7iVouPdtFkbRx5kv55_xVja8l19yubyRU/edit
+
+Replace tabs "	" to "|"
+Remove * stars
+
+===ParseStartLine:
+Corruption Chamber|Catalyst of Corruption|Locus of Corruption:G
+-6% maximum Player Resistances|-8% maximum Player Resistances|Altar of Corruption:G
+Gemcutter's Workshop|Department of Thaumaturgy|Doryani's Institute:G
+1 Gem Chest|2 Gem Chests|3 Gem Chests. Corrution Device with a chance at double corrupting gem:G
+Vault:G|Treasury:G|Wealth of the Vaal:G
+Currency Chests:G|Currency Chests:G|Currency Chests:G
+Surveyor's Study:G|Office of Cartography:G|Atlas of Worlds:G
+1 Map Chest:G|2 Map Chests:G|3 Map Chests:G
+Hall of Mettle:G|Hall of Heroes:G|Hall of Legends:G
+Legion encounter:G|Legion encounter:G|Legion encounter:G
+Storage Room:Y|Warehouses:Y|Museum of Artifacts:Y
+Item-specific Chests:Y|Item-specific Chests:Y|Item-specific Chests (Chance of league-specific):Y
+Guardhouse:Y|Barracks:Y|Hall of War:Y
+10% more Monster Pack Size:Y|20% more Monster Pack Size:Y|30% more Monster Pack Size:Y
+Workshop:Y|Engineering Department:Y|Factory:Y
+5% increased Quantity / 15% increased boss life (1):Y|10% increased Quantity / 25% increased boss life:Y|15% increased Quantity / 35% increased boss life:Y
+Sacrificial Chamber|Hall of Offerings|Apex of Ascension:Y
+Unique item-> Random Unique (2)|Unique item-> Random Unique (Chance of league-specific)|Unique item-> Random Unique with same base (Chance of league-specific):Y
+Shrine of Empowerment|Sanctum of Unity|Temple Nexus:Y
+10% increased monster attack/cast speed|15% increased monster attack/cast speed|Connected rooms +1:Y
+Jeweller's Workshop|Jewellery Forge|Glittering Halls:Y
+3 Jeweller’s boxes|5 Jeweller’s boxes|7 Jeweller’s boxes:Y
+Splinter Research Lab|Breach Containment Chamber|House of the Others:Y
+2 Breach Hands|1 Breach| 3 Breaches:Y
+Strongbox Chamber|Hall of Locks|Court of Sealed Death:Y
+2 Strongboxes|4 Strongboxes|6 Strongboxes:Y
+Royal Meeting Room|Hall of Lords|Throne of Atziri:Y
+10% increased monster attack/cast speed|15% increased monster attack/cast speed|Atziri, Queen of the Vaal:Y
+Tempest Generator|Hurricane Engine|Storm of Corruption
+Enlarging Tempest or Shrinking Tempest|Stinging Tempest, Restorative Tempest or status immunity Tempest|Corrupting Tempest or Radiating Tempest
+Torment Cells|Torture Cages|Sadist's Den
+3 Tormented Spirits|5 Tormented Spirits|7 Tormented Spirits
+Explosives Room|Demolition Lab|Shrine of Unmaking
+1 Flashpowder Keg|2 Flashpowder Kegs|3 Flashpowder Kegs
+Armourer's Workshop|Armoury|Chamber of Iron
+10% more Monster Life. Armour Chests (3)|20% more Monster Life. Armour Chests|Armour Chests 
+Sparring Room|Arena of Valour|Hall of Champions
+10% increased Monster Damage. Weapon Chests (4)|Weapon Chests|Weapon Chests 
+Poison Garden|Cultivar Chamber|Toxic Grove
+Poisonous Plants (5)|Poisonous Plants |Apep's Slumber or Tacati mod on magic item 
+Hatchery|Automaton Lab|Hybridisation Chamber
+Omnitect gets minions (6)|Omnitect with minions|Coward's Chains or Citaqualotl mod on rare item 
+Trap Workshop|Temple Defense Workshop|Defense Research Lab
+Traps (7)|Traps|Traps, Architect's Hand or Matatl mod on magic item 
+Flame Workshop|Omnitect Forge|Crucible of Flame
+Omnitect gets Fire Damage|Omnitect gets Fire Damage|Story of the Vaal or Puhuarte mod on magic item
+Lightning Workshop|Omnitect Reactor Plant|Conduit of Lightning
+Omnitect gets Lightning Damage|Omnitect gets Lightning Damage|Dance of the Offered or Xopec mod on magic item
+Pools of Restoration|Sanctum of Vitality|Sanctum of Immortality
+4% of Maximum Life per second (8)|6% of Maximum Life per second|"Mask of the Spirit Drinker" or Guatelitzi mod on rare item 
